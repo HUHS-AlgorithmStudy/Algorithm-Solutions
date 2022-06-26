@@ -10,6 +10,13 @@
     - 순서: 김가은
     - 기간: 2022-06-20 ~ 2022-06-26
     - 문제: https://programmers.co.kr/learn/courses/30/lessons/12909 (프로그래머스 2단계 올바른 괄호)
+    
+    <br>
+    
+2.
+    - 순서: 김정희
+    - 기간: 2022-06-27 ~ 2022-07-03
+    - 문제: https://programmers.co.kr/learn/courses/30/lessons/12951 (프로그래머스 2단계 JadenCase 문자열 만들기)
 
 ### 기타 주의사항
 - 파일 이름에 문제 번호를 포함한다.
