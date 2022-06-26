@@ -1,0 +1,17 @@
+def solution(s):
+    answer = ''
+    splited = True
+    
+    for word in s:
+        if (word == " "):
+            splited = True
+            answer += " "
+            continue
+
+        if (splited):
+            word = word.upper()
+        else:
+            word = word.lower()
+        answer += word
+        splited = False
+    return answer
