@@ -1,6 +1,6 @@
 function solution(clothes) {
   let answer = 1;
-  // 빈 객체 생성.
+  // 빈 객체를 생성합니다.
   let object = {};
   // clothes 배열을 forEach문으로 돌면서 옷의 종류를 key로, 옷의 개수를 value값으로 할당.
   clothes.forEach((cloth) => {
