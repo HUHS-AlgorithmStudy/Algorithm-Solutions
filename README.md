@@ -21,9 +21,10 @@
     - 순서: 박다빈
     - 기간: 2022-07-04 ~ 2022-07-10
     - 문제: https://programmers.co.kr/learn/courses/30/lessons/42578 (프로그래머스 2단계 위장)
+    <br>
 4.
     - 순서: 홍수민
-    - 기간: 2022-07-10 ~ 2022-07-12
+    - 기간: 2022-07-11 ~ 2022-07-17
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12981 (프로그래머스 2단계 영어 끝말잇기)
     <br>
     
