@@ -1,15 +1,12 @@
+// 최종 풀이
 function solution(n, words) {
-  let answer = [];
-  let count = 2;
-  let lastWord = words.map((item) => item[item.length - 1]);
-  for (let i = 1; i < lastWord.length; i++) {
-    answer.push(words[i - 1]);
-    if (words[i][0] !== lastWord[i - 1] || answer.includes(words[i])) {
-      return count % n === 0
-        ? [n, Math.ceil(count / n)]
-        : [count % n, Math.ceil(count / n)];
+  for (let i = 1; i < words.length; i++) {
+    if (
+      words[i][0] !== words[i - 1][words[i - 1].length - 1] ||
+      words.indexOf(words[i]) !== i
+    ) {
+      return [(i + 1) % n === 0 ? n : (i + 1) % n, Math.ceil((i + 1) / n)];
     }
-    count++;
   }
   return [0, 0];
 }
