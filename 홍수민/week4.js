@@ -4,8 +4,6 @@
 */
 
 function solution(n, words) {
-    let answer = [];
-    
     if (words[0].length === 0) return [1, 1];
     
     for (let i = 1; i < words.length; i++) {
