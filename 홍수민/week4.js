@@ -1,5 +1,5 @@
 /*
-    프로그래머스 2단계 - 위장
+    프로그래머스 2단계 - 영어 끝말잇기
     https://school.programmers.co.kr/learn/courses/30/lessons/12981
 */
 
