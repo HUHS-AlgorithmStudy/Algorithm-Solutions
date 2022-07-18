@@ -27,6 +27,11 @@
     - 기간: 2022-07-11 ~ 2022-07-17
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12981 (프로그래머스 2단계 영어 끝말잇기)
     <br>
+5.
+    - 순서: 김가은
+    - 기간: 2022-07-18 ~ 2022-07-24
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/42888 (프로그래머스 2단계 오픈채팅방)
+
     
     
 
