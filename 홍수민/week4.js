@@ -1,7 +1,7 @@
 /*
-    프로그래머스 2단계 - 영어 끝말잇기
-    https://school.programmers.co.kr/learn/courses/30/lessons/12981
-*/
+ *  프로그래머스 2단계 - 영어 끝말잇기
+ *  https://school.programmers.co.kr/learn/courses/30/lessons/12981
+ */
 
 function solution(n, words) {
     if (words[0].length === 0) return [1, 1];
