@@ -1,7 +1,7 @@
 /*
-    프로그래머스 2단계 - 위장
-    https://school.programmers.co.kr/learn/courses/30/lessons/42578
-*/
+ *   프로그래머스 2단계 - 위장
+ *   https://school.programmers.co.kr/learn/courses/30/lessons/42578
+ */
 
 // 조합 수학공식 및 팩토리얼 함수 사용하기
 const com = (a, b) =>  fac(a) / (fac(a-b) * fac(b));
