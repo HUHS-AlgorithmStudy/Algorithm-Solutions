@@ -16,5 +16,5 @@ function solution(record) {
     }
   });
 
-  return answer.map((a) => a.replace(/[\w]+/g, (e) => name[e]));
+  return answer.map((a) => a.replace(/\w+/g, (e) => name[e]));
 }
