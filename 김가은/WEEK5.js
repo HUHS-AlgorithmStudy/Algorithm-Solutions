@@ -1,3 +1,4 @@
+// 최종 코드
 function solution(record) {
   let answer = [];
   let name = {};
