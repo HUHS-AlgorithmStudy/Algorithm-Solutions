@@ -4,9 +4,6 @@ def solution(n, words):
     answer = []
 
     for i in range(len(words)):
-        
-        print(init)
-        print(words[i])
         if (words[i][0] != init):
             answer = [i%n+1, i//n+1]
             break
