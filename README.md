@@ -31,6 +31,11 @@
     - 순서: 김가은
     - 기간: 2022-07-18 ~ 2022-07-24
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/42888 (프로그래머스 2단계 오픈채팅방)
+    <br>
+6.
+    - 순서: 김민식
+    - 기간: 2022-07-25 ~ 2022-08-01
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/72411 (프로그래머스 2단계 메뉴리뉴얼)
 
     
     
