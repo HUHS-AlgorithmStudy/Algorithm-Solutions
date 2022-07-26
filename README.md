@@ -35,7 +35,7 @@
 6.
     - 순서: 김민식
     - 기간: 2022-07-25 ~ 2022-07-31
-    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/72411 (프로그래머스 2단계 메뉴리뉴얼)
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/49993 (프로그래머스 2단계 )
 
     
     
