@@ -14,8 +14,7 @@ function solution(skill, skill_trees) {
             result < 0 ? arr.push(result + 30) : arr.push(result);
         })
         
-        const origin = [...arr];
-        if (origin.join() === arr.sort((a, b) => a - b).join()) {
+        if ([...arr].join() === arr.sort((a, b) => a - b).join()) {
             answer += 1;
         }
         
