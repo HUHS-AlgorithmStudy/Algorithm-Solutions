@@ -36,6 +36,11 @@
     - 순서: 김민식
     - 기간: 2022-07-25 ~ 2022-07-31
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/49993 (프로그래머스 2단계 스킬트리)
+    <br>
+7.
+    - 순서: 박다빈
+    - 기간: 2022-08-01 ~ 2022-08-07
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/60062 (프로그래머스 3단계 외벽점검)
 
     
     
