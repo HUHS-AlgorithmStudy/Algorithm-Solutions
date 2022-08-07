@@ -40,7 +40,7 @@
 7.
     - 순서: 박다빈
     - 기간: 2022-08-01 ~ 2022-08-07
-    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/60062 (프로그래머스 3단계 외벽점검)
+    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/64065 (프로그래머스 2단계 튜플)
 
     
     
