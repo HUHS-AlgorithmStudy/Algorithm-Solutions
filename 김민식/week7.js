@@ -1,26 +1,18 @@
-function solution(n, weak, dist) {
-  let distMax = Math.max(...dist);
-  let numMax = Number.MIN_SAFE_INTEGER;
-  weak.push(weak[0]);
-
-  for (let i = 0; i < weak.length; i++) {
-    let num = Math.abs(weak[i] - weak[i + 1]);
-    if (num > n / 2) {
-      if (weak[i] < weak[i + 1]) {
-        num = Math.abs(0 - weak[i]) + Math.abs(n - weak[i + 1]);
-      } else {
-        num = Math.abs(n - weak[i]) + Math.abs(0 - weak[i + 1]);
+//최종풀이
+function solution(s) {
+  let name = s.replace(/{/g, (e) => "");
+  let list = [];
+  let arr = name.split("},").map((item) => item.split(","));
+  for (let i = 1; i < c.length + 1; i++) {
+    arr.forEach((item) => {
+      if (item.length === i) {
+        item.forEach((item) => {
+          if (!list.includes(parseInt(item))) {
+            list.push(parseInt(item));
+          }
+        });
       }
-    }
-    if (num > numMax) {
-      numMax = num;
-      weak = weak.filter((item) => {
-        return item !== weak[i] && item !== weak[i + 1];
-      });
-    }
+    });
   }
-
-  console.log(weak);
-  console.log(numMax);
-  return -1;
+  return list;
 }
