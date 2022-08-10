@@ -43,6 +43,7 @@
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/64065 (프로그래머스 2단계 튜플)
     <br>
     
+8.
     - 순서: 김가은
     - 기간: 2022-08-08 ~ 2022-08-14
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/62048 (프로그래머스 2단계 멀쩡한 사각형)
