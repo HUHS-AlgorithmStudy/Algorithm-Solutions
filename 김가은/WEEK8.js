@@ -10,7 +10,6 @@ function solution(w, h) {
       num = i;
       break;
     }
-    s;
   }
 
   return w * h - num * (width + heigth - 1);
