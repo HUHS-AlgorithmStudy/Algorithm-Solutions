@@ -1,3 +1,4 @@
+// 최종 코드
 function solution(w, h) {
   let width = 0;
   let heigth = 0;
@@ -9,6 +10,7 @@ function solution(w, h) {
       num = i;
       break;
     }
+    s;
   }
 
   return w * h - num * (width + heigth - 1);
