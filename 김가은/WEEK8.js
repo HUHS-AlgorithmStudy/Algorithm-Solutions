@@ -1,3 +1,4 @@
+// 최종 코드
 function solution(w, h) {
   let width = 0;
   let heigth = 0;
