@@ -57,10 +57,6 @@
     - 기간: 2022-08-15 ~ 2022-08-21
     - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12973 (프로그래머스 2단계 짝지어 제거하기)
     <br>
-10.
-    - 순서: 김가은
-    - 기간: 2022-08-22 ~ 2022-08-28
-    - 문제: https://school.programmers.co.kr/learn/courses/30/lessons/12900 (프로그래머스 2단계 2 x n 타일링)
 
 
 ### 기타 주의사항
